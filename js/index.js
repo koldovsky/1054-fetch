@@ -4,5 +4,7 @@ document.addEventListener('partialsLoaded', () => {
     import('./product-list.js');
     import('./products-carousel.js');
     import('./products-carousel-animated.js');
+    import('./chat.js');
+    import('./chatgpt.js');
     import('./contact-form-formspree.js');
 });
